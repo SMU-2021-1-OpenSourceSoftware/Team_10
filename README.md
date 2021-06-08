@@ -10,5 +10,7 @@
 
 ## 홍세민
 - hsmeen4@naver.com
+- 2020315039
+- Github:hsmeen4
 
 ## 새치기
