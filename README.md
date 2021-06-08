@@ -8,7 +8,18 @@
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
 
+
 ## 홍세민
 - hsmeen4@naver.com
+- 2020315001
+- GitHub : theswings500
+
+
+
+
+
+
 
 ## 새치기
+
+
