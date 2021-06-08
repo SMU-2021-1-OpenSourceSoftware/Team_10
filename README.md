@@ -9,4 +9,5 @@
 - kimsoohwan@sunmoon.ac.kr
 
 ## 홍세민
+- hsmeen4@naver.com
 
